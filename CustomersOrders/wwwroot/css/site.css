@@ -21,6 +21,27 @@ body {
   margin-bottom: 60px;
 }
 
-
-
+.dataTable thead th {
+    color: dodgerblue;
+}
+#myTable_filter input {
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin:5px
+}
+#myTable_filter label{
+    color:dodgerblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px
+}
+#customerTable_filter input {
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 5px
+}
+#customerTable_filter label {
+    color: dodgerblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px
+}
 

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<CustomersOrders.Models.Products>
+
+@{
+    ViewData["Title"] = "Products List";
+}
+<script src="~/js/site.js"></script>
+<div style="margin-top:10%">
+   
+    <table id="myTable" class="table my-5 mx-3">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ID)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CustomerID)
+                </th>
+                <th>Show more</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ID)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CustomerID)
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.ID"><i class="bi bi-info-circle text-info"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@await Html.PartialAsync("_CreateButton","Products")

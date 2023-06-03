@@ -1,0 +1,66 @@
+﻿@model IEnumerable<CustomersOrders.Models.Customers>
+
+@{
+    ViewData["Title"] = "Customers List";
+}
+
+<script src="~/js/site.js"></script>
+<div style="margin-top:10%">
+<table class="table" id="customerTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Products)
+            </th>
+            <th>
+                Orders
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @foreach (var i in item.Products)
+                    {
+                     @Html.DisplayFor(modelItem => i.Name)<br />
+                    }
+            </td>
+            <td>
+                 <a asp-action="Details" asp-route-id="@item.ID" class="text-decoration-none text-info">Show Orders</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+@await Html.PartialAsync("_CreateButton","Customers")

@@ -1,4 +1,4 @@
-﻿body {
+﻿/*body {
     font-family: "Roboto", sans-serif;
     background-color: #fff;
 }
@@ -180,4 +180,50 @@ h2 {
 .control--checkbox input:disabled:checked ~ .control__indicator {
     background-color: #7e0cf5;
     opacity: .2;
+}
+
+*/
+
+body {
+    background: url("https://i.pinimg.com/564x/db/eb/9c/dbeb9c917c48438afb086d8da226b5a2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    overflow-x:hidden;
+    overflow-y:hidden;
+}
+
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+}
+
+    header.masthead h1, header.masthead .h1 {
+        font-size: 2.25rem;
+    }
+
+@media (min-width: 992px) {
+    header.masthead {
+        height: 100vh;
+        min-height: 40rem;
+        padding-top: 4.5rem;
+        padding-bottom: 0;
+    }
+
+        header.masthead p {
+            font-size: 1.15rem;
+        }
+
+        header.masthead h1, header.masthead .h1 {
+            font-size: 3rem;
+        }
+}
+
+@media (min-width: 1200px) {
+    header.masthead h1, header.masthead .h1 {
+        font-size: 3.5rem;
+    }
+}
+h1 {
+    text-shadow: 2px 2px lightblue;
 }

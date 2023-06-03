@@ -22,7 +22,7 @@ builder.Services.AddScoped<IProductService, ProductService>();
 
 //identity 
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDBContext>();
-builder.Services.AddMemoryCache();
+//builder.Services.AddMemoryCache();
 builder.Services.AddSession();
 builder.Services.AddAuthentication(option =>
 { option.DefaultScheme = CookieAuthenticationDefaults.AuthenticationScheme; });
@@ -46,11 +46,11 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseSession();
 //Authorization & Authorization
-app.UseAuthorization();
 app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-
+    pattern: "{controller=Account}/{action=Login}/{id?}");
+AppDbInit.SeedAdminRolesAsync(app);
 app.Run();

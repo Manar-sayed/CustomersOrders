@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\Stylee.css"
     },
     {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\css\\notfound.css",
+      "PackagePath": "staticwebassets\\css\\notfound.css"
+    },
+    {
       "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -21,8 +25,208 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\images\\Fingerprint.gif",
+      "PackagePath": "staticwebassets\\images\\Fingerprint.gif"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\images\\Login-pana.png",
+      "PackagePath": "staticwebassets\\images\\Login-pana.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\images\\Online world-bro.png",
+      "PackagePath": "staticwebassets\\images\\Online world-bro.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\images\\image-1.png",
+      "PackagePath": "staticwebassets\\images\\image-1.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\images\\image-2.png",
+      "PackagePath": "staticwebassets\\images\\image-2.png"
+    },
+    {
       "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\DataTables-1.13.4\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.13.4\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.js"
     },
     {
       "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\lib\\bootstrap\\LICENSE",
