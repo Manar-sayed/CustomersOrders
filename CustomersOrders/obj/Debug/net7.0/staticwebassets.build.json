@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "86j6zVVu5wV+ayQfMgypM+qL2Dut8FWXqQ+VEOb1eQQ=",
+  "Hash": "SnNboIKrO3XvqWWNNpivq3x6/2SPhJ7cms1YtDNoqYI=",
   "Source": "CustomersOrders",
   "BasePath": "_content/CustomersOrders",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\notfound.css"
+    },
+    {
+      "Identity": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\css\\ordersHistory.css",
+      "SourceId": "CustomersOrders",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\",
+      "BasePath": "_content/CustomersOrders",
+      "RelativePath": "css/ordersHistory.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ordersHistory.css"
     },
     {
       "Identity": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\css\\site.css",

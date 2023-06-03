@@ -19,20 +19,22 @@ html {
 
 body {
   margin-bottom: 60px;
+  font-family:'Times New Roman', Times, serif;
+  font-size:18px
+ 
 }
 
 .dataTable thead th {
-    color: dodgerblue;
+    color: #accffe;
 }
 #myTable_filter input {
     background-color: aliceblue;
     border-radius: 10px;
     margin:5px
 }
-#myTable_filter label{
-    color:dodgerblue;
-    font-family:'Times New Roman', Times, serif;
-    font-size:18px
+#myTable_filter label {
+    color: #accffe;
+    margin-right:2px;
 }
 #customerTable_filter input {
     background-color: aliceblue;
@@ -40,8 +42,9 @@ body {
     margin: 5px
 }
 #customerTable_filter label {
-    color: dodgerblue;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 18px
+    color: #accffe;
+    margin-right:2px;
+
 }
+
 

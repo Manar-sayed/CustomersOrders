@@ -4,15 +4,15 @@
     ViewData["Title"] = "Login";
 }
 
-    <link href="~/css/Stylee.css" rel="stylesheet" />
-
+<link href="~/css/Stylee.css" rel="stylesheet" />
 <body>
     <div class="wrapper">
 	<div class="inner">
-            <img src="~/images/image-1.png" alt="" class="image-1 d-none d-lg-block">
+        <img src="~/images/image-1.png" alt="" class="image-1 d-none d-lg-block">
+        @*Login Form*@
         <form asp-action="Login">
             <h3>Welcome Back!</h3>
-                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group my-5">
                     <i class="bi bi-envelope mx-1"></i>
                     <label asp-for="EmailAddress" class="control-label"></label>
@@ -31,7 +31,6 @@
         </form>
         <img src="~/images/image-2.png" alt="" class="image-2 d-none d-lg-block">
 	</div>
-
 </div>
 </body>
 @section Scripts {

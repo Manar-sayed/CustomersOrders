@@ -20,16 +20,14 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex ">
                     <ul class="navbar-nav flex-grow-1 hover">
-                    
+                    @*Check Admin Role*@
                         @if (User.IsInRole("Admin"))
                         {
                             <li>
                                 <a class="nav-link text-dark" asp-area="" asp-controller="Customers" asp-action="Index">Customers</a>
                             </li>
                         }
-                     @*   <li>
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Customers" asp-action="Index">Orders</a>
-                        </li>  *@
+                    @*User Role*@
                         <li>
                             <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
                         </li>
@@ -58,14 +56,11 @@
         </main>
     </div>
 
-  @*  <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - CustomersOrders - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>*@
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>

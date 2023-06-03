@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\notfound.css"
     },
     {
+      "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\css\\ordersHistory.css",
+      "PackagePath": "staticwebassets\\css\\ordersHistory.css"
+    },
+    {
       "Id": "E:\\Interview_Task\\CustomersOrders\\CustomersOrders\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
